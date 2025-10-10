@@ -35,6 +35,8 @@ def sapa_semua(daftar_teman):
 
 sapa_semua(daftar_teman)
 
+# Hasil: Rina Doni Sari Andi Lina
+
 # Soal 5
 nilai = [80, 75, 90, 85, 70]
 def rata_rata(daftar_nilai):
